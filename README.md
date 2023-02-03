@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # food-cms
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -33,3 +34,7 @@ npm run build
 ```sh
 npm run lint
 ```
+=======
+# food
+这是一个food系统
+>>>>>>> d6c53d120f6b2d6ba0aeb396f2f49fc811bc6b00
